@@ -1,6 +1,7 @@
 <h1>ExpNo 6 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-# Name: Aruru Sai Bandhavi
-# Register Number: 212221240006
+
+## Name: Aruru Sai Bandhavi
+## Register Number: 212221240006
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
