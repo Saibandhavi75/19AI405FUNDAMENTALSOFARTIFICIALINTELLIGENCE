@@ -129,7 +129,7 @@ print(traversedpath)
 <hr>
 <h3>Sample Output</h3>
 <hr>
-![1](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/afc071bf-fab4-4383-b091-8b0edf681e9d)
+![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/d46c4458-49d1-4f07-9f62-c3dc593beef3)
 
 <hr>
 <h3>Result:</h3>
