@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 # Name: Aruru Sai Bandhavi
-# >Register Number: 212221240006
+# Register Number: 212221240006
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -228,9 +228,13 @@ if __name__ == "__main__":
 
 # Output:
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/c8b9cd8f-8d87-4af5-aba3-c804d6bf67f7) 
+
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/edfe6231-784a-42a8-8600-db3d1f22ac9b) 
+
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/cd453078-6bee-47fa-b7f0-78f7a8509c1a) 
+
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/4d8fd917-411a-4c2f-88d8-d017147c0a4e) 
+
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/63096787-1179-4e52-aed2-7b291873bb44) 
 # Result: 
 Thus,Implementation of Minimax Search Algorithm for a Simple TIC-TAC-TOE game was done successfully.
