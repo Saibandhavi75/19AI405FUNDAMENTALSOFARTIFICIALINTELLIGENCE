@@ -1,5 +1,5 @@
 <h1>ExpNo 2 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: Aruru Sai bandhavi N</h3>
+<h3>Name: Aruru Sai bandhavi</h3>
 <h3>Register Number: 212221240006</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
@@ -129,7 +129,7 @@ print(traversedpath)
 <hr>
 <h3>Sample Output</h3>
 <hr>
-![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/f6ece8e9-c846-4fc8-961d-6902e6ae6424?raw=true)
+![1](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/afc071bf-fab4-4383-b091-8b0edf681e9d)
 
 <hr>
 <h3>Result:</h3>
