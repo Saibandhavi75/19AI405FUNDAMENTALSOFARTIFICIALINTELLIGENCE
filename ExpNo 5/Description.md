@@ -1,5 +1,5 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Aruru Sai Bnadhavi</h3>
+<h3>Name: Aruru Sai Bandhavi</h3>
 <h3>Register Number: 212221240006</h3>
 <H3>Aim:</H3>
 <p>
@@ -301,7 +301,9 @@ if __name__ == "__main__":
 <h2>Sample Input and Output</h2>
 
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/b3e321cf-9895-4806-8cce-ef14fbd85ba3)
+
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/c3ac0d57-6555-4d8b-9339-14ff35fa9d62)
+
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/c92c8958-cca9-4dd9-ac52-1662ad545abe)
 
 
