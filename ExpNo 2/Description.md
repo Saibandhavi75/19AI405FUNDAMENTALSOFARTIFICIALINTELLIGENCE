@@ -127,10 +127,11 @@ print(traversedpath)
 2 4 <BR>
 3 4 <BR>
 <hr>
-<h3>Sample Output</h3>
-<hr>
+
+## Sample output:
+
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/d46c4458-49d1-4f07-9f62-c3dc593beef3)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8e16ffa3-c3d6-4774-822b-6eb84adedad9)
+
 
 <hr>
 <h3>Result:</h3>
