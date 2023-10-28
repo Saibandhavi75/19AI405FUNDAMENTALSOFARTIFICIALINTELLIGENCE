@@ -51,34 +51,23 @@
 
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/d4679838-4189-4a13-a0d0-f5e91867b064)
 
-
-<hr>
-<h2>Input</h2>
-<hr>
+# Input
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/cfcf87f1-fd2e-4947-8156-31a6a360e000)
-
-
-<hr>
-<h2>Output</h2>
-<hr>
+# Output
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/274755ef-4695-49e8-8cf1-1a0d28b8685b)
 
 
+# Sample Graph II
 
-<hr>
-<h2>Sample Graph II</h2>
-<hr>
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/e890b350-3953-4ec9-a938-241605e84bfe)
 
+# Sample Input 2
 
-<hr>
-<h2>Sample Input 2</h2>
-<hr>
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/fa5efff0-5709-469c-8a0d-16009f81bf8c)
 
-<hr>
-<h2>Output 2</h2>
-<hr>
-
+# Output 2
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/37b9fe97-9126-4a07-b370-1ae43cd6c4f6)
+
+# Result;
+Thus, a Graph was constructed, and the implementation of the A* algorithm for the same graph was executed successfully. The algorithm found the shortest path from the start node to the stop node, demonstrating its effectiveness in solving pathfinding problems.
 
