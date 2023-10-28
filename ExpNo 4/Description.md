@@ -87,6 +87,3 @@ SimpleHillClimbing()
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/fcb96abf-f3ec-4d63-84cc-749fc3d04802)
 ## Result:
 The Simple Hill Climbing Algorithm successfully mutated a random string to optimize and generate the target string 'DEEP LEARNING' by iteratively improving the solution.
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 1  Solution :  Artificial Intelligencf<br>
-Score: 0  Solution :  Artificial Intelligence<br>
