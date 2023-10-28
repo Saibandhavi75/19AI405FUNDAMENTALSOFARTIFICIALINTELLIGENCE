@@ -51,9 +51,7 @@
 
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/d4679838-4189-4a13-a0d0-f5e91867b064)
 
-# Input
-![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/cfcf87f1-fd2e-4947-8156-31a6a360e000)
-# Output
+# Input & Output 1:
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/274755ef-4695-49e8-8cf1-1a0d28b8685b)
 
 
@@ -61,11 +59,7 @@
 
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/e890b350-3953-4ec9-a938-241605e84bfe)
 
-# Sample Input 2
-
-![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/fa5efff0-5709-469c-8a0d-16009f81bf8c)
-
-# Output 2
+# Input & Output 2:
 ![image](https://github.com/Saibandhavi75/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94208895/37b9fe97-9126-4a07-b370-1ae43cd6c4f6)
 
 # Result;
