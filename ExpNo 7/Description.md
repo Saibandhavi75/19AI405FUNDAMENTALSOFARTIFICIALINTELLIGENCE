@@ -1,5 +1,5 @@
 <h1>ExpNo 7 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:Aruru Sai bandhavi</h3>
+<h3>Name:Aruru Sai bandhavi</h3> 
 <h3>Register Number: 212221240006</h3>
 <H3>Aim:</H3>
 <p>
