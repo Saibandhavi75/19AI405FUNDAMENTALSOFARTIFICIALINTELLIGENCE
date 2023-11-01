@@ -1,4 +1,4 @@
-<h1>ExpNo 8 : Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+<h1>ExpNo 8 : Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1>  
 <h3>Name: Aruru Sai Bandhavi</h3>
 <h3>Register Number: 212221240006</h3>
 <H3>Aim:</H3>
