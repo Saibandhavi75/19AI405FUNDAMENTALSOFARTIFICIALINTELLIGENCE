@@ -1,7 +1,7 @@
 <h1>ExpNo 3 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name: Aruru Sai Bandhavi</h3>
 <h3>Register Number : 212221240006</h3>
-<H3>Aim:</H3>
+<H3>Aim:</H3> 
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
 // A* Search Algorithm
