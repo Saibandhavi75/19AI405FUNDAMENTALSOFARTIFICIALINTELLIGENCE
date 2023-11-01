@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1>  
 <h3>Name: Aruru Sai Bandhavi</h3>
 <h3>Register Number: 212221240006</h3>
 <H3>Aim:</H3>
