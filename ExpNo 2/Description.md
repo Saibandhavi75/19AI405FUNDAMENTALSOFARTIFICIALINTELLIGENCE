@@ -1,5 +1,5 @@
 <h1>ExpNo 2 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: Aruru Sai bandhavi</h3>
+<h3>Name: Aruru Sai bandhavi</h3> 
 <h3>Register Number: 212221240006</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
